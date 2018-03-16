@@ -34,19 +34,19 @@ cmake_force:
 SHELL = /bin/sh
 
 # The CMake executable.
-CMAKE_COMMAND = /home/estebandcg1999/Downloads/clion-2017.3.3/bin/cmake/bin/cmake
+CMAKE_COMMAND = /opt/clion-2017.3.3/bin/cmake/bin/cmake
 
 # The command to remove a file.
-RM = /home/estebandcg1999/Downloads/clion-2017.3.3/bin/cmake/bin/cmake -E remove -f
+RM = /opt/clion-2017.3.3/bin/cmake/bin/cmake -E remove -f
 
 # Escaping for special characters.
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/estebandcg1999/CLionProjects/TareaCorta
+CMAKE_SOURCE_DIR = /home/racso/Escritorio/ITareaCorta2018
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/estebandcg1999/CLionProjects/TareaCorta/cmake-build-debug
+CMAKE_BINARY_DIR = /home/racso/Escritorio/ITareaCorta2018/cmake-build-debug
 
 # Utility rule file for TareaCorta_autogen.
 
@@ -54,8 +54,8 @@ CMAKE_BINARY_DIR = /home/estebandcg1999/CLionProjects/TareaCorta/cmake-build-deb
 include CMakeFiles/TareaCorta_autogen.dir/progress.make
 
 CMakeFiles/TareaCorta_autogen:
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/estebandcg1999/CLionProjects/TareaCorta/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC for target TareaCorta"
-	/home/estebandcg1999/Downloads/clion-2017.3.3/bin/cmake/bin/cmake -E cmake_autogen /home/estebandcg1999/CLionProjects/TareaCorta/cmake-build-debug/CMakeFiles/TareaCorta_autogen.dir Debug
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/racso/Escritorio/ITareaCorta2018/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC for target TareaCorta"
+	/opt/clion-2017.3.3/bin/cmake/bin/cmake -E cmake_autogen /home/racso/Escritorio/ITareaCorta2018/cmake-build-debug/CMakeFiles/TareaCorta_autogen.dir Debug
 
 TareaCorta_autogen: CMakeFiles/TareaCorta_autogen
 TareaCorta_autogen: CMakeFiles/TareaCorta_autogen.dir/build.make
@@ -72,6 +72,6 @@ CMakeFiles/TareaCorta_autogen.dir/clean:
 .PHONY : CMakeFiles/TareaCorta_autogen.dir/clean
 
 CMakeFiles/TareaCorta_autogen.dir/depend:
-	cd /home/estebandcg1999/CLionProjects/TareaCorta/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/estebandcg1999/CLionProjects/TareaCorta /home/estebandcg1999/CLionProjects/TareaCorta /home/estebandcg1999/CLionProjects/TareaCorta/cmake-build-debug /home/estebandcg1999/CLionProjects/TareaCorta/cmake-build-debug /home/estebandcg1999/CLionProjects/TareaCorta/cmake-build-debug/CMakeFiles/TareaCorta_autogen.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/racso/Escritorio/ITareaCorta2018/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/racso/Escritorio/ITareaCorta2018 /home/racso/Escritorio/ITareaCorta2018 /home/racso/Escritorio/ITareaCorta2018/cmake-build-debug /home/racso/Escritorio/ITareaCorta2018/cmake-build-debug /home/racso/Escritorio/ITareaCorta2018/cmake-build-debug/CMakeFiles/TareaCorta_autogen.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/TareaCorta_autogen.dir/depend
 

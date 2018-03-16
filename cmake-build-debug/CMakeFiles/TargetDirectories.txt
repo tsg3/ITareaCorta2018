@@ -1,4 +1,4 @@
-/home/estebandcg1999/CLionProjects/TareaCorta/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/estebandcg1999/CLionProjects/TareaCorta/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/estebandcg1999/CLionProjects/TareaCorta/cmake-build-debug/CMakeFiles/TareaCorta.dir
-/home/estebandcg1999/CLionProjects/TareaCorta/cmake-build-debug/CMakeFiles/TareaCorta_autogen.dir
+/home/racso/Escritorio/ITareaCorta2018/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/racso/Escritorio/ITareaCorta2018/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/racso/Escritorio/ITareaCorta2018/cmake-build-debug/CMakeFiles/TareaCorta.dir
+/home/racso/Escritorio/ITareaCorta2018/cmake-build-debug/CMakeFiles/TareaCorta_autogen.dir

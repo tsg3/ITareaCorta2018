@@ -34,19 +34,19 @@ cmake_force:
 SHELL = /bin/sh
 
 # The CMake executable.
-CMAKE_COMMAND = /home/estebandcg1999/Downloads/clion-2017.3.3/bin/cmake/bin/cmake
+CMAKE_COMMAND = /opt/clion-2017.3.3/bin/cmake/bin/cmake
 
 # The command to remove a file.
-RM = /home/estebandcg1999/Downloads/clion-2017.3.3/bin/cmake/bin/cmake -E remove -f
+RM = /opt/clion-2017.3.3/bin/cmake/bin/cmake -E remove -f
 
 # Escaping for special characters.
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/estebandcg1999/CLionProjects/TareaCorta
+CMAKE_SOURCE_DIR = /home/racso/Escritorio/ITareaCorta2018
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/estebandcg1999/CLionProjects/TareaCorta/cmake-build-debug
+CMAKE_BINARY_DIR = /home/racso/Escritorio/ITareaCorta2018/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/TareaCorta.dir/depend.make
@@ -59,16 +59,16 @@ include CMakeFiles/TareaCorta.dir/flags.make
 
 CMakeFiles/TareaCorta.dir/main.cpp.o: CMakeFiles/TareaCorta.dir/flags.make
 CMakeFiles/TareaCorta.dir/main.cpp.o: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/estebandcg1999/CLionProjects/TareaCorta/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/TareaCorta.dir/main.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/TareaCorta.dir/main.cpp.o -c /home/estebandcg1999/CLionProjects/TareaCorta/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/racso/Escritorio/ITareaCorta2018/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/TareaCorta.dir/main.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/TareaCorta.dir/main.cpp.o -c /home/racso/Escritorio/ITareaCorta2018/main.cpp
 
 CMakeFiles/TareaCorta.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/TareaCorta.dir/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/estebandcg1999/CLionProjects/TareaCorta/main.cpp > CMakeFiles/TareaCorta.dir/main.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/racso/Escritorio/ITareaCorta2018/main.cpp > CMakeFiles/TareaCorta.dir/main.cpp.i
 
 CMakeFiles/TareaCorta.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/TareaCorta.dir/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/estebandcg1999/CLionProjects/TareaCorta/main.cpp -o CMakeFiles/TareaCorta.dir/main.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/racso/Escritorio/ITareaCorta2018/main.cpp -o CMakeFiles/TareaCorta.dir/main.cpp.s
 
 CMakeFiles/TareaCorta.dir/main.cpp.o.requires:
 
@@ -83,16 +83,16 @@ CMakeFiles/TareaCorta.dir/main.cpp.o.provides.build: CMakeFiles/TareaCorta.dir/m
 
 CMakeFiles/TareaCorta.dir/TareaCorta_autogen/mocs_compilation.cpp.o: CMakeFiles/TareaCorta.dir/flags.make
 CMakeFiles/TareaCorta.dir/TareaCorta_autogen/mocs_compilation.cpp.o: TareaCorta_autogen/mocs_compilation.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/estebandcg1999/CLionProjects/TareaCorta/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/TareaCorta.dir/TareaCorta_autogen/mocs_compilation.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/TareaCorta.dir/TareaCorta_autogen/mocs_compilation.cpp.o -c /home/estebandcg1999/CLionProjects/TareaCorta/cmake-build-debug/TareaCorta_autogen/mocs_compilation.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/racso/Escritorio/ITareaCorta2018/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/TareaCorta.dir/TareaCorta_autogen/mocs_compilation.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/TareaCorta.dir/TareaCorta_autogen/mocs_compilation.cpp.o -c /home/racso/Escritorio/ITareaCorta2018/cmake-build-debug/TareaCorta_autogen/mocs_compilation.cpp
 
 CMakeFiles/TareaCorta.dir/TareaCorta_autogen/mocs_compilation.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/TareaCorta.dir/TareaCorta_autogen/mocs_compilation.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/estebandcg1999/CLionProjects/TareaCorta/cmake-build-debug/TareaCorta_autogen/mocs_compilation.cpp > CMakeFiles/TareaCorta.dir/TareaCorta_autogen/mocs_compilation.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/racso/Escritorio/ITareaCorta2018/cmake-build-debug/TareaCorta_autogen/mocs_compilation.cpp > CMakeFiles/TareaCorta.dir/TareaCorta_autogen/mocs_compilation.cpp.i
 
 CMakeFiles/TareaCorta.dir/TareaCorta_autogen/mocs_compilation.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/TareaCorta.dir/TareaCorta_autogen/mocs_compilation.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/estebandcg1999/CLionProjects/TareaCorta/cmake-build-debug/TareaCorta_autogen/mocs_compilation.cpp -o CMakeFiles/TareaCorta.dir/TareaCorta_autogen/mocs_compilation.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/racso/Escritorio/ITareaCorta2018/cmake-build-debug/TareaCorta_autogen/mocs_compilation.cpp -o CMakeFiles/TareaCorta.dir/TareaCorta_autogen/mocs_compilation.cpp.s
 
 CMakeFiles/TareaCorta.dir/TareaCorta_autogen/mocs_compilation.cpp.o.requires:
 
@@ -116,11 +116,11 @@ TareaCorta_EXTERNAL_OBJECTS =
 TareaCorta: CMakeFiles/TareaCorta.dir/main.cpp.o
 TareaCorta: CMakeFiles/TareaCorta.dir/TareaCorta_autogen/mocs_compilation.cpp.o
 TareaCorta: CMakeFiles/TareaCorta.dir/build.make
-TareaCorta: /usr/lib/x86_64-linux-gnu/libQt5Widgets.so.5.5.1
-TareaCorta: /usr/lib/x86_64-linux-gnu/libQt5Gui.so.5.5.1
-TareaCorta: /usr/lib/x86_64-linux-gnu/libQt5Core.so.5.5.1
+TareaCorta: /usr/lib/x86_64-linux-gnu/libQt5Widgets.so.5.6.1
+TareaCorta: /usr/lib/x86_64-linux-gnu/libQt5Gui.so.5.6.1
+TareaCorta: /usr/lib/x86_64-linux-gnu/libQt5Core.so.5.6.1
 TareaCorta: CMakeFiles/TareaCorta.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/estebandcg1999/CLionProjects/TareaCorta/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable TareaCorta"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/racso/Escritorio/ITareaCorta2018/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable TareaCorta"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/TareaCorta.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -138,6 +138,6 @@ CMakeFiles/TareaCorta.dir/clean:
 .PHONY : CMakeFiles/TareaCorta.dir/clean
 
 CMakeFiles/TareaCorta.dir/depend:
-	cd /home/estebandcg1999/CLionProjects/TareaCorta/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/estebandcg1999/CLionProjects/TareaCorta /home/estebandcg1999/CLionProjects/TareaCorta /home/estebandcg1999/CLionProjects/TareaCorta/cmake-build-debug /home/estebandcg1999/CLionProjects/TareaCorta/cmake-build-debug /home/estebandcg1999/CLionProjects/TareaCorta/cmake-build-debug/CMakeFiles/TareaCorta.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/racso/Escritorio/ITareaCorta2018/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/racso/Escritorio/ITareaCorta2018 /home/racso/Escritorio/ITareaCorta2018 /home/racso/Escritorio/ITareaCorta2018/cmake-build-debug /home/racso/Escritorio/ITareaCorta2018/cmake-build-debug /home/racso/Escritorio/ITareaCorta2018/cmake-build-debug/CMakeFiles/TareaCorta.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/TareaCorta.dir/depend
 

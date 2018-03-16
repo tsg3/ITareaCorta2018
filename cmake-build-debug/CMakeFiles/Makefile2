@@ -45,19 +45,19 @@ cmake_force:
 SHELL = /bin/sh
 
 # The CMake executable.
-CMAKE_COMMAND = /home/estebandcg1999/Downloads/clion-2017.3.3/bin/cmake/bin/cmake
+CMAKE_COMMAND = /opt/clion-2017.3.3/bin/cmake/bin/cmake
 
 # The command to remove a file.
-RM = /home/estebandcg1999/Downloads/clion-2017.3.3/bin/cmake/bin/cmake -E remove -f
+RM = /opt/clion-2017.3.3/bin/cmake/bin/cmake -E remove -f
 
 # Escaping for special characters.
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/estebandcg1999/CLionProjects/TareaCorta
+CMAKE_SOURCE_DIR = /home/racso/Escritorio/ITareaCorta2018
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/estebandcg1999/CLionProjects/TareaCorta/cmake-build-debug
+CMAKE_BINARY_DIR = /home/racso/Escritorio/ITareaCorta2018/cmake-build-debug
 
 #=============================================================================
 # Target rules for target CMakeFiles/TareaCorta.dir
@@ -66,7 +66,7 @@ CMAKE_BINARY_DIR = /home/estebandcg1999/CLionProjects/TareaCorta/cmake-build-deb
 CMakeFiles/TareaCorta.dir/all: CMakeFiles/TareaCorta_autogen.dir/all
 	$(MAKE) -f CMakeFiles/TareaCorta.dir/build.make CMakeFiles/TareaCorta.dir/depend
 	$(MAKE) -f CMakeFiles/TareaCorta.dir/build.make CMakeFiles/TareaCorta.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/estebandcg1999/CLionProjects/TareaCorta/cmake-build-debug/CMakeFiles --progress-num=1,2,3 "Built target TareaCorta"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/racso/Escritorio/ITareaCorta2018/cmake-build-debug/CMakeFiles --progress-num=1,2,3 "Built target TareaCorta"
 .PHONY : CMakeFiles/TareaCorta.dir/all
 
 # Include target in all.
@@ -76,9 +76,9 @@ all: CMakeFiles/TareaCorta.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/TareaCorta.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/estebandcg1999/CLionProjects/TareaCorta/cmake-build-debug/CMakeFiles 4
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/racso/Escritorio/ITareaCorta2018/cmake-build-debug/CMakeFiles 4
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/TareaCorta.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/estebandcg1999/CLionProjects/TareaCorta/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/racso/Escritorio/ITareaCorta2018/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/TareaCorta.dir/rule
 
 # Convenience name for target.
@@ -103,14 +103,14 @@ clean: CMakeFiles/TareaCorta.dir/clean
 CMakeFiles/TareaCorta_autogen.dir/all:
 	$(MAKE) -f CMakeFiles/TareaCorta_autogen.dir/build.make CMakeFiles/TareaCorta_autogen.dir/depend
 	$(MAKE) -f CMakeFiles/TareaCorta_autogen.dir/build.make CMakeFiles/TareaCorta_autogen.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/estebandcg1999/CLionProjects/TareaCorta/cmake-build-debug/CMakeFiles --progress-num=4 "Built target TareaCorta_autogen"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/racso/Escritorio/ITareaCorta2018/cmake-build-debug/CMakeFiles --progress-num=4 "Built target TareaCorta_autogen"
 .PHONY : CMakeFiles/TareaCorta_autogen.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/TareaCorta_autogen.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/estebandcg1999/CLionProjects/TareaCorta/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/racso/Escritorio/ITareaCorta2018/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/TareaCorta_autogen.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/estebandcg1999/CLionProjects/TareaCorta/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/racso/Escritorio/ITareaCorta2018/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/TareaCorta_autogen.dir/rule
 
 # Convenience name for target.

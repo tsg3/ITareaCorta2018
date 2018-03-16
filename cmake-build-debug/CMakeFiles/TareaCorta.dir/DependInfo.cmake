@@ -4,8 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/estebandcg1999/CLionProjects/TareaCorta/cmake-build-debug/TareaCorta_autogen/mocs_compilation.cpp" "/home/estebandcg1999/CLionProjects/TareaCorta/cmake-build-debug/CMakeFiles/TareaCorta.dir/TareaCorta_autogen/mocs_compilation.cpp.o"
-  "/home/estebandcg1999/CLionProjects/TareaCorta/main.cpp" "/home/estebandcg1999/CLionProjects/TareaCorta/cmake-build-debug/CMakeFiles/TareaCorta.dir/main.cpp.o"
+  "/home/racso/Escritorio/ITareaCorta2018/cmake-build-debug/TareaCorta_autogen/mocs_compilation.cpp" "/home/racso/Escritorio/ITareaCorta2018/cmake-build-debug/CMakeFiles/TareaCorta.dir/TareaCorta_autogen/mocs_compilation.cpp.o"
+  "/home/racso/Escritorio/ITareaCorta2018/main.cpp" "/home/racso/Escritorio/ITareaCorta2018/cmake-build-debug/CMakeFiles/TareaCorta.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
