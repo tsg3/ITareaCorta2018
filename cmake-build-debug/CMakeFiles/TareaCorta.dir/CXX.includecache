@@ -9,9 +9,13 @@
 /home/estebandcg1999/CLionProjects/TareaCorta/cmake-build-debug/TareaCorta_autogen/mocs_compilation.cpp
 
 /home/estebandcg1999/CLionProjects/TareaCorta/main.cpp
-QtWidgets/QApplication
--
 QtWidgets/QFrame
+-
+iostream
+-
+fstream
+-
+stdio.h
 -
 
 /usr/include/x86_64-linux-gnu/qt5/QtCore/qalgorithms.h
@@ -154,20 +158,6 @@ limits.h
 new
 -
 
-/usr/include/x86_64-linux-gnu/qt5/QtCore/qcoreapplication.h
-QtCore/qglobal.h
--
-QtCore/qstring.h
--
-QtCore/qobject.h
--
-QtCore/qcoreevent.h
--
-QtCore/qeventloop.h
--
-QtCore/qscopedpointer.h
--
-
 /usr/include/x86_64-linux-gnu/qt5/QtCore/qcoreevent.h
 QtCore/qnamespace.h
 -
@@ -204,10 +194,6 @@ QtCore/qvector.h
 QtCore/qset.h
 -
 QtCore/qcontiguouscache.h
--
-
-/usr/include/x86_64-linux-gnu/qt5/QtCore/qeventloop.h
-QtCore/qobject.h
 -
 
 /usr/include/x86_64-linux-gnu/qt5/QtCore/qfeatures.h
@@ -794,20 +780,6 @@ QtCore/qsharedpointer.h
 QtCore/qrect.h
 -
 
-/usr/include/x86_64-linux-gnu/qt5/QtGui/qguiapplication.h
-QtCore/qcoreapplication.h
--
-QtGui/qwindowdefs.h
--
-QtGui/qinputmethod.h
--
-QtCore/qlocale.h
--
-QtCore/qpoint.h
--
-QtCore/qsize.h
--
-
 /usr/include/x86_64-linux-gnu/qt5/QtGui/qimage.h
 QtGui/qtransform.h
 -
@@ -824,10 +796,6 @@ QtCore/qrect.h
 QtCore/qstring.h
 -
 QtCore/qstringlist.h
--
-
-/usr/include/x86_64-linux-gnu/qt5/QtGui/qinputmethod.h
-QtCore/qobject.h
 -
 
 /usr/include/x86_64-linux-gnu/qt5/QtGui/qkeysequence.h
@@ -966,33 +934,9 @@ QtGui/qwindowdefs_win.h
 QtCore/qglobal.h
 -
 
-/usr/include/x86_64-linux-gnu/qt5/QtWidgets/QApplication
-qapplication.h
-/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qapplication.h
-
 /usr/include/x86_64-linux-gnu/qt5/QtWidgets/QFrame
 qframe.h
 /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qframe.h
-
-/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qapplication.h
-QtCore/qcoreapplication.h
--
-QtGui/qwindowdefs.h
--
-QtCore/qpoint.h
--
-QtCore/qsize.h
--
-QtGui/qcursor.h
--
-QtWidgets/qdesktopwidget.h
--
-QtGui/qguiapplication.h
--
-
-/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qdesktopwidget.h
-QtWidgets/qwidget.h
--
 
 /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qframe.h
 QtWidgets/qwidget.h

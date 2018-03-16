@@ -25,11 +25,9 @@ CMakeFiles/TareaCorta.dir/main.cpp.o: /usr/include/x86_64-linux-gnu/qt5/QtCore/q
 CMakeFiles/TareaCorta.dir/main.cpp.o: /usr/include/x86_64-linux-gnu/qt5/QtCore/qconfig.h
 CMakeFiles/TareaCorta.dir/main.cpp.o: /usr/include/x86_64-linux-gnu/qt5/QtCore/qcontainerfwd.h
 CMakeFiles/TareaCorta.dir/main.cpp.o: /usr/include/x86_64-linux-gnu/qt5/QtCore/qcontiguouscache.h
-CMakeFiles/TareaCorta.dir/main.cpp.o: /usr/include/x86_64-linux-gnu/qt5/QtCore/qcoreapplication.h
 CMakeFiles/TareaCorta.dir/main.cpp.o: /usr/include/x86_64-linux-gnu/qt5/QtCore/qcoreevent.h
 CMakeFiles/TareaCorta.dir/main.cpp.o: /usr/include/x86_64-linux-gnu/qt5/QtCore/qdatastream.h
 CMakeFiles/TareaCorta.dir/main.cpp.o: /usr/include/x86_64-linux-gnu/qt5/QtCore/qdebug.h
-CMakeFiles/TareaCorta.dir/main.cpp.o: /usr/include/x86_64-linux-gnu/qt5/QtCore/qeventloop.h
 CMakeFiles/TareaCorta.dir/main.cpp.o: /usr/include/x86_64-linux-gnu/qt5/QtCore/qfeatures.h
 CMakeFiles/TareaCorta.dir/main.cpp.o: /usr/include/x86_64-linux-gnu/qt5/QtCore/qfile.h
 CMakeFiles/TareaCorta.dir/main.cpp.o: /usr/include/x86_64-linux-gnu/qt5/QtCore/qfiledevice.h
@@ -88,9 +86,7 @@ CMakeFiles/TareaCorta.dir/main.cpp.o: /usr/include/x86_64-linux-gnu/qt5/QtGui/qe
 CMakeFiles/TareaCorta.dir/main.cpp.o: /usr/include/x86_64-linux-gnu/qt5/QtGui/qfont.h
 CMakeFiles/TareaCorta.dir/main.cpp.o: /usr/include/x86_64-linux-gnu/qt5/QtGui/qfontinfo.h
 CMakeFiles/TareaCorta.dir/main.cpp.o: /usr/include/x86_64-linux-gnu/qt5/QtGui/qfontmetrics.h
-CMakeFiles/TareaCorta.dir/main.cpp.o: /usr/include/x86_64-linux-gnu/qt5/QtGui/qguiapplication.h
 CMakeFiles/TareaCorta.dir/main.cpp.o: /usr/include/x86_64-linux-gnu/qt5/QtGui/qimage.h
-CMakeFiles/TareaCorta.dir/main.cpp.o: /usr/include/x86_64-linux-gnu/qt5/QtGui/qinputmethod.h
 CMakeFiles/TareaCorta.dir/main.cpp.o: /usr/include/x86_64-linux-gnu/qt5/QtGui/qkeysequence.h
 CMakeFiles/TareaCorta.dir/main.cpp.o: /usr/include/x86_64-linux-gnu/qt5/QtGui/qmatrix.h
 CMakeFiles/TareaCorta.dir/main.cpp.o: /usr/include/x86_64-linux-gnu/qt5/QtGui/qpaintdevice.h
@@ -106,10 +102,7 @@ CMakeFiles/TareaCorta.dir/main.cpp.o: /usr/include/x86_64-linux-gnu/qt5/QtGui/qt
 CMakeFiles/TareaCorta.dir/main.cpp.o: /usr/include/x86_64-linux-gnu/qt5/QtGui/qvector2d.h
 CMakeFiles/TareaCorta.dir/main.cpp.o: /usr/include/x86_64-linux-gnu/qt5/QtGui/qwindowdefs.h
 CMakeFiles/TareaCorta.dir/main.cpp.o: /usr/include/x86_64-linux-gnu/qt5/QtGui/qwindowdefs_win.h
-CMakeFiles/TareaCorta.dir/main.cpp.o: /usr/include/x86_64-linux-gnu/qt5/QtWidgets/QApplication
 CMakeFiles/TareaCorta.dir/main.cpp.o: /usr/include/x86_64-linux-gnu/qt5/QtWidgets/QFrame
-CMakeFiles/TareaCorta.dir/main.cpp.o: /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qapplication.h
-CMakeFiles/TareaCorta.dir/main.cpp.o: /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qdesktopwidget.h
 CMakeFiles/TareaCorta.dir/main.cpp.o: /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qframe.h
 CMakeFiles/TareaCorta.dir/main.cpp.o: /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qsizepolicy.h
 CMakeFiles/TareaCorta.dir/main.cpp.o: /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qwidget.h

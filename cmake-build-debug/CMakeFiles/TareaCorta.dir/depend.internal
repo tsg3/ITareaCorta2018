@@ -26,11 +26,9 @@ CMakeFiles/TareaCorta.dir/main.cpp.o
  /usr/include/x86_64-linux-gnu/qt5/QtCore/qconfig.h
  /usr/include/x86_64-linux-gnu/qt5/QtCore/qcontainerfwd.h
  /usr/include/x86_64-linux-gnu/qt5/QtCore/qcontiguouscache.h
- /usr/include/x86_64-linux-gnu/qt5/QtCore/qcoreapplication.h
  /usr/include/x86_64-linux-gnu/qt5/QtCore/qcoreevent.h
  /usr/include/x86_64-linux-gnu/qt5/QtCore/qdatastream.h
  /usr/include/x86_64-linux-gnu/qt5/QtCore/qdebug.h
- /usr/include/x86_64-linux-gnu/qt5/QtCore/qeventloop.h
  /usr/include/x86_64-linux-gnu/qt5/QtCore/qfeatures.h
  /usr/include/x86_64-linux-gnu/qt5/QtCore/qfile.h
  /usr/include/x86_64-linux-gnu/qt5/QtCore/qfiledevice.h
@@ -89,9 +87,7 @@ CMakeFiles/TareaCorta.dir/main.cpp.o
  /usr/include/x86_64-linux-gnu/qt5/QtGui/qfont.h
  /usr/include/x86_64-linux-gnu/qt5/QtGui/qfontinfo.h
  /usr/include/x86_64-linux-gnu/qt5/QtGui/qfontmetrics.h
- /usr/include/x86_64-linux-gnu/qt5/QtGui/qguiapplication.h
  /usr/include/x86_64-linux-gnu/qt5/QtGui/qimage.h
- /usr/include/x86_64-linux-gnu/qt5/QtGui/qinputmethod.h
  /usr/include/x86_64-linux-gnu/qt5/QtGui/qkeysequence.h
  /usr/include/x86_64-linux-gnu/qt5/QtGui/qmatrix.h
  /usr/include/x86_64-linux-gnu/qt5/QtGui/qpaintdevice.h
@@ -107,10 +103,7 @@ CMakeFiles/TareaCorta.dir/main.cpp.o
  /usr/include/x86_64-linux-gnu/qt5/QtGui/qvector2d.h
  /usr/include/x86_64-linux-gnu/qt5/QtGui/qwindowdefs.h
  /usr/include/x86_64-linux-gnu/qt5/QtGui/qwindowdefs_win.h
- /usr/include/x86_64-linux-gnu/qt5/QtWidgets/QApplication
  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/QFrame
- /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qapplication.h
- /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qdesktopwidget.h
  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qframe.h
  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qsizepolicy.h
  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qwidget.h
