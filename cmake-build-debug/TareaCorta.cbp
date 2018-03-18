@@ -122,6 +122,12 @@
 		<Unit filename="/home/racso/Escritorio/ITareaCorta2018/main.cpp">
 			<Option target="TareaCorta"/>
 		</Unit>
+		<Unit filename="/home/racso/Escritorio/ITareaCorta2018/mainwindow.cpp">
+			<Option target="TareaCorta"/>
+		</Unit>
+		<Unit filename="/home/racso/Escritorio/ITareaCorta2018/mainwindow.h">
+			<Option target="TareaCorta"/>
+		</Unit>
 		<Unit filename="/home/racso/Escritorio/ITareaCorta2018/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

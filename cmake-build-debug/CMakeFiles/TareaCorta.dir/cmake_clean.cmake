@@ -2,6 +2,7 @@ file(REMOVE_RECURSE
   "TareaCorta_autogen"
   "CMakeFiles/TareaCorta_autogen.dir/AutogenOldSettings.cmake"
   "CMakeFiles/TareaCorta.dir/main.cpp.o"
+  "CMakeFiles/TareaCorta.dir/mainwindow.cpp.o"
   "CMakeFiles/TareaCorta.dir/TareaCorta_autogen/mocs_compilation.cpp.o"
   "TareaCorta.pdb"
   "TareaCorta"

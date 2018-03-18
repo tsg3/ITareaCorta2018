@@ -13,6 +13,6 @@ include_directories(${Qt5Widgets_INCLUDE_DIRS})
 
 set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} ${Qt5Widgets_EXECUTABLE_COMPILE_FLAGS}")
 
-add_executable(TareaCorta main.cpp)
+add_executable(TareaCorta main.cpp mainwindow.h mainwindow.cpp)
 
 target_link_libraries(TareaCorta Qt5::Widgets)
