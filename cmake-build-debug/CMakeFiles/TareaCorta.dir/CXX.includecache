@@ -17,6 +17,8 @@ fstream
 -
 stdio.h
 -
+iostream
+-
 
 /usr/include/x86_64-linux-gnu/qt5/QtCore/qalgorithms.h
 QtCore/qglobal.h
