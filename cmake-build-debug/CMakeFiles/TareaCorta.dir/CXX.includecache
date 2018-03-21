@@ -33,9 +33,11 @@ QLabel
 -
 QDebug
 -
-QScrollBar
--
 QInputDialog
+-
+QtWidgets/QTextEdit
+-
+QMessageBox
 -
 
 /home/racso/Escritorio/ITareaCorta2018/mainwindow.h
@@ -1020,6 +1022,20 @@ QtCore/qshareddata.h
 QtGui/qtextformat.h
 -
 
+/usr/include/x86_64-linux-gnu/qt5/QtGui/qtextdocument.h
+QtCore/qobject.h
+-
+QtCore/qsize.h
+-
+QtCore/qrect.h
+-
+QtCore/qvariant.h
+-
+QtGui/qfont.h
+-
+QtCore/qurl.h
+-
+
 /usr/include/x86_64-linux-gnu/qt5/QtGui/qtextformat.h
 QtGui/qcolor.h
 -
@@ -1100,13 +1116,17 @@ qinputdialog.h
 qlabel.h
 /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qlabel.h
 
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/QMessageBox
+qmessagebox.h
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qmessagebox.h
+
 /usr/include/x86_64-linux-gnu/qt5/QtWidgets/QPushButton
 qpushbutton.h
 /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qpushbutton.h
 
-/usr/include/x86_64-linux-gnu/qt5/QtWidgets/QScrollBar
-qscrollbar.h
-/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qscrollbar.h
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/QTextEdit
+qtextedit.h
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qtextedit.h
 
 /usr/include/x86_64-linux-gnu/qt5/QtWidgets/QWidget
 qwidget.h
@@ -1120,8 +1140,8 @@ QtGui/qkeysequence.h
 QtWidgets/qwidget.h
 -
 
-/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qabstractslider.h
-QtWidgets/qwidget.h
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qabstractscrollarea.h
+QtWidgets/qframe.h
 -
 
 /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qapplication.h
@@ -1174,18 +1194,28 @@ QtCore/qstring.h
 QtCore/qmargins.h
 -
 
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qmessagebox.h
+QtWidgets/qdialog.h
+-
+
 /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qpushbutton.h
 QtWidgets/qabstractbutton.h
 -
 
-/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qscrollbar.h
-QtWidgets/qwidget.h
--
-QtWidgets/qabstractslider.h
--
-
 /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qsizepolicy.h
 QtCore/qobject.h
+-
+
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qtextedit.h
+QtWidgets/qabstractscrollarea.h
+-
+QtGui/qtextdocument.h
+-
+QtGui/qtextoption.h
+-
+QtGui/qtextcursor.h
+-
+QtGui/qtextformat.h
 -
 
 /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qwidget.h

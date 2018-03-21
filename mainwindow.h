@@ -8,8 +8,7 @@
 #include <QWidget>
 
 class QPushButton;
-class QLabel;
-class QScrollBar;
+class QMessageBox;
 class Window : public QWidget
 {
 Q_OBJECT
@@ -20,11 +19,13 @@ public:
 private slots:
     void slotButtonClicked();
     void slotButton2Clicked();
+    void slotButton3Clicked();
 
 private:
     QPushButton *m_button;
     QPushButton *m2_button;
-    QScrollBar *bar;
+    QPushButton *m3_button;
+    QMessageBox *alerta;
 };
 
 #endif //TAREACORTA_MAINWINDOW_H

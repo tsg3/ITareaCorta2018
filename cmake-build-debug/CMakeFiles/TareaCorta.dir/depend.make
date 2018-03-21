@@ -325,6 +325,7 @@ CMakeFiles/TareaCorta.dir/mainwindow.cpp.o: /usr/include/x86_64-linux-gnu/qt5/Qt
 CMakeFiles/TareaCorta.dir/mainwindow.cpp.o: /usr/include/x86_64-linux-gnu/qt5/QtGui/qrgb.h
 CMakeFiles/TareaCorta.dir/mainwindow.cpp.o: /usr/include/x86_64-linux-gnu/qt5/QtGui/qrgba64.h
 CMakeFiles/TareaCorta.dir/mainwindow.cpp.o: /usr/include/x86_64-linux-gnu/qt5/QtGui/qtextcursor.h
+CMakeFiles/TareaCorta.dir/mainwindow.cpp.o: /usr/include/x86_64-linux-gnu/qt5/QtGui/qtextdocument.h
 CMakeFiles/TareaCorta.dir/mainwindow.cpp.o: /usr/include/x86_64-linux-gnu/qt5/QtGui/qtextformat.h
 CMakeFiles/TareaCorta.dir/mainwindow.cpp.o: /usr/include/x86_64-linux-gnu/qt5/QtGui/qtextoption.h
 CMakeFiles/TareaCorta.dir/mainwindow.cpp.o: /usr/include/x86_64-linux-gnu/qt5/QtGui/qtouchdevice.h
@@ -334,18 +335,20 @@ CMakeFiles/TareaCorta.dir/mainwindow.cpp.o: /usr/include/x86_64-linux-gnu/qt5/Qt
 CMakeFiles/TareaCorta.dir/mainwindow.cpp.o: /usr/include/x86_64-linux-gnu/qt5/QtGui/qwindowdefs_win.h
 CMakeFiles/TareaCorta.dir/mainwindow.cpp.o: /usr/include/x86_64-linux-gnu/qt5/QtWidgets/QInputDialog
 CMakeFiles/TareaCorta.dir/mainwindow.cpp.o: /usr/include/x86_64-linux-gnu/qt5/QtWidgets/QLabel
+CMakeFiles/TareaCorta.dir/mainwindow.cpp.o: /usr/include/x86_64-linux-gnu/qt5/QtWidgets/QMessageBox
 CMakeFiles/TareaCorta.dir/mainwindow.cpp.o: /usr/include/x86_64-linux-gnu/qt5/QtWidgets/QPushButton
-CMakeFiles/TareaCorta.dir/mainwindow.cpp.o: /usr/include/x86_64-linux-gnu/qt5/QtWidgets/QScrollBar
+CMakeFiles/TareaCorta.dir/mainwindow.cpp.o: /usr/include/x86_64-linux-gnu/qt5/QtWidgets/QTextEdit
 CMakeFiles/TareaCorta.dir/mainwindow.cpp.o: /usr/include/x86_64-linux-gnu/qt5/QtWidgets/QWidget
 CMakeFiles/TareaCorta.dir/mainwindow.cpp.o: /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qabstractbutton.h
-CMakeFiles/TareaCorta.dir/mainwindow.cpp.o: /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qabstractslider.h
+CMakeFiles/TareaCorta.dir/mainwindow.cpp.o: /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qabstractscrollarea.h
 CMakeFiles/TareaCorta.dir/mainwindow.cpp.o: /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qdialog.h
 CMakeFiles/TareaCorta.dir/mainwindow.cpp.o: /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qframe.h
 CMakeFiles/TareaCorta.dir/mainwindow.cpp.o: /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qinputdialog.h
 CMakeFiles/TareaCorta.dir/mainwindow.cpp.o: /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qlabel.h
 CMakeFiles/TareaCorta.dir/mainwindow.cpp.o: /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qlineedit.h
+CMakeFiles/TareaCorta.dir/mainwindow.cpp.o: /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qmessagebox.h
 CMakeFiles/TareaCorta.dir/mainwindow.cpp.o: /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qpushbutton.h
-CMakeFiles/TareaCorta.dir/mainwindow.cpp.o: /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qscrollbar.h
 CMakeFiles/TareaCorta.dir/mainwindow.cpp.o: /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qsizepolicy.h
+CMakeFiles/TareaCorta.dir/mainwindow.cpp.o: /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qtextedit.h
 CMakeFiles/TareaCorta.dir/mainwindow.cpp.o: /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qwidget.h
 
