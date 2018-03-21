@@ -11,7 +11,14 @@
 #include <QtWidgets/QTextEdit>
 #include <QMessageBox>
 
-//Variables globales
+///Variables globales
+
+/// actual: su funcion es llevar la posicion de las paginas que estan cargadas
+/// posy: variable que se usa para ubicar los QTextEdits junto a la funcion set geometry
+/// start: variable cuya finalidad es indicar el inicio del texto para la particion (Fue empleado en las pruebas, no es necesario)
+/// pages es un array que me contiene las paginas con 1000 caracteres cada una.
+/// texts es una lista de QTextEdits.
+/// texto es la variable que me contiene el texto a paginar
 
 int actual = 0;
 int posy = 10;
@@ -185,8 +192,9 @@ QString texto = "En un lugar de La Mancha, había un señor que leía muchos lib
         "su señora, Dulcinea del Toboso. Ellos que le tomaron por loco, empezaron a "
         "tirarle piedras, y se largaron. ";
 
-//Interfaz
+///Interfaz
 
+/// Se establecen la ventana y los diferentes botones y elementos que va a contener
 Window::Window(QWidget *parent) :
         QWidget(parent) {
     setFixedSize(1200, 1200);
@@ -211,7 +219,7 @@ Window::Window(QWidget *parent) :
     m3_button->hide();
 }
 
-//Boton RUN
+/// Funcion del boton RUN
 
 void Window::slotButtonClicked()
 {
@@ -238,7 +246,7 @@ void Window::slotButtonClicked()
     qDebug()<<actual;
 }
 
-//Boton Scroll UP
+/// Funcion del boton Scroll UP
 
 void Window::slotButton2Clicked() {
 
@@ -254,7 +262,7 @@ void Window::slotButton2Clicked() {
     actual-=1;
 }
 
-//Boton Scroll Down
+/// Funcion del boton Scroll DOWN
 
 void Window::slotButton3Clicked() {
 

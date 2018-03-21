@@ -13,17 +13,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="029da8e4-04f5-4a04-a43a-423e9dd77789" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TareaCorta.dir/CXX.includecache" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TareaCorta.dir/CXX.includecache" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TareaCorta.dir/TareaCorta_autogen/mocs_compilation.cpp.o" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TareaCorta.dir/TareaCorta_autogen/mocs_compilation.cpp.o" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TareaCorta.dir/depend.internal" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TareaCorta.dir/depend.internal" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TareaCorta.dir/depend.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TareaCorta.dir/depend.make" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TareaCorta.dir/main.cpp.o" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TareaCorta.dir/main.cpp.o" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TareaCorta.dir/mainwindow.cpp.o" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TareaCorta.dir/mainwindow.cpp.o" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/TareaCorta" afterPath="$PROJECT_DIR$/cmake-build-debug/TareaCorta" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/TareaCorta_autogen/EWIEGA46WW/moc_mainwindow.cpp" afterPath="$PROJECT_DIR$/cmake-build-debug/TareaCorta_autogen/EWIEGA46WW/moc_mainwindow.cpp" />
       <change beforePath="$PROJECT_DIR$/mainwindow.cpp" afterPath="$PROJECT_DIR$/mainwindow.cpp" />
-      <change beforePath="$PROJECT_DIR$/mainwindow.h" afterPath="$PROJECT_DIR$/mainwindow.h" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -59,8 +49,8 @@
       <file leaf-file-name="mainwindow.cpp" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mainwindow.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="265" column="0" lean-forward="true" selection-start-line="265" selection-start-column="0" selection-end-line="265" selection-end-column="0" />
+            <state relative-caret-position="34">
+              <caret line="2" column="2" lean-forward="false" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
               <folding>
                 <element signature="e#40#63#0" expanded="true" />
               </folding>
@@ -188,7 +178,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47627000" />
+    <option name="totallyTimeSpent" value="49277000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="20" y="40" width="1366" height="732" extended-state="6" />
@@ -612,8 +602,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mainwindow.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="265" column="0" lean-forward="true" selection-start-line="265" selection-start-column="0" selection-end-line="265" selection-end-column="0" />
+        <state relative-caret-position="34">
+          <caret line="2" column="2" lean-forward="false" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
           <folding>
             <element signature="e#40#63#0" expanded="true" />
           </folding>
